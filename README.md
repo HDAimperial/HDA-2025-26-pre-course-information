@@ -181,6 +181,41 @@ Advice for the thesis: get your references and stuff organised and maybe don’t
 
 Below are provisional Imperial College terms dates for 2024-25. Please note that some assessments submission and examination dates fall outside regular College term dates</p>
 
+# <h2>College Term Dates</h2>
+<table border="1">
+  <tr><th>Term</th><th>Dates</th></tr>
+  <tr><td>Autumn Term</td><td>27 September 2025 - 12 December 2025</td></tr>
+  <tr><td>Spring Term</td><td>3 January 2026 - 20 March 2026</td></tr>
+  <tr><td>Spring Break</td><td>16 February 2026 - 22 February 2026</td></tr>
+  <tr><td>Summer Term</td><td>25 April 2026 - 26 June 2026</td></tr>
+</table>
+
+# <h2>Examination Dates</h2>
+<table border="1">
+  <tr><th>Exam Period</th><th>Dates</th></tr>
+  <tr><td>Exam Period 1</td><td>5 - 9 January 2026</td></tr>
+  <tr><td>Exam Period 2</td><td>20 April - 11 May 2026</td></tr>
+</table>
+
+# <h2>Summer Project Dates</h2>
+<table border="1">
+  <tr><th>Milestone</th><th>Date</th></tr>
+  <tr><td>Start</td><td>4 May 2026</td></tr>
+  <tr><td>Background Presentation</td><td>(Provisional) Week of 1 June 2026</td></tr>
+  <tr><td>Final Presentation</td><td>(Provisional) Week of 14 September 2026</td></tr>
+</table>
+
+# <h2>Closure Dates</h2>
+<table border="1">
+  <tr><th>Holiday</th><th>Dates</th></tr>
+  <tr><td>Christmas/New Year</td><td>22 December 2025 - 2 January 2026 (Reopens 5 January 2026)</td></tr>
+  <tr><td>Easter Holiday</td><td>1 April 2026 - 7 April 2026 (Reopens 23 April 2026)</td></tr>
+  <tr><td>Early May Bank Holiday</td><td>4 May 2026</td></tr>
+  <tr><td>Spring Bank Holiday</td><td>25 May 2026</td></tr>
+  <tr><td>Summer Bank Holiday</td><td>31 August 2026</td></tr>
+</table>
+
+
 
 <details>
   <summary>Mandatory training</summary>
