@@ -101,6 +101,43 @@ Install required packages in R
 There are two main repositories of R packages (sets of built-in R functions): the CRAN (Comprehensive R Archive Network) and Bioconductor. Once both R and R Studio are installed, you can open RStudio and install the required packages by running the following code:
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):</p>
+
+```r
+### First we create a function that checks if you have the package installed 
+### and, if you don't have it, installs the package
+checkInstallPackage <- function(package.list){
+  new.packages <- package.list[!(package.list %in% installed.packages()[,"Package"])]
+  print(paste(length(new.packages), "packages require installation. Installing now"))
+  if(length(new.packages)) install.packages(new.packages)
+}
+### Now we have a function, we can pass a list of the packages we will be 
+### using on the course into the function, and install them all in one go
+# first we create the list of packages
+package.list <- c("e1071", "optparse", "tidyverse", "mvoutlier", "pcaMethods",
+			"imputeLCMD", "lme4", "RColorBrewer", "VennDiagram", "glmnet", "omics","stringr",
+			"utils","dplyr", "ROCR", "ggplot2", "ggfortify", "survival", "igraph", "corpcor",
+			"ppcor", "abind", "parallel")
+# now we run the function
+checkInstallPackage(package.list)
+# this may take some time to run #
+### Installing some packages from Bioconductor ###
+# some of the packages we use are only available on bioconductor and these need 
+# to be installed separately. Run this code to install these packages.
+# You may receive a prompt "Update all/some/none? [a/s/n]:" – 
+# if you see this, type "a" and press enter
+if (!"pcaMethods" %in% rownames(installed.packages())) {
+  if (!requireNamespace("BiocManager",
+                        quietly = TRUE))
+    install.packages("BiocManager")
+  BiocManager::install("pcaMethods")
+}
+if (!"impute" %in% rownames(installed.packages())) {
+  if (!requireNamespace("BiocManager",
+                        quietly = TRUE))
+    install.packages("BiocManager")
+  BiocManager::install("impute")
+}
+```
 </details>
 
 <details>
