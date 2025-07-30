@@ -14,7 +14,7 @@ It an intense but very rewarding year. And to help to lower the gradient of your
 
 <details>
   <summary>How to spend your preparation time</summary>
-  <p></b>Statistics</b>
+  <b><p>Statistics</b>
   
 While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven’t studied it before then some pre-course revision may well be beneficial.
 
