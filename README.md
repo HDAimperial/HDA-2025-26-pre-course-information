@@ -212,6 +212,7 @@ Summer quarter advice - make sure they have data you want to work with.
 Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.</p>
 </details>
 
+
 <details>
   <b><summary>Timetable and planning the year</summary></b>
 	
