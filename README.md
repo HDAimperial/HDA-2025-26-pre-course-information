@@ -138,8 +138,6 @@ if (!"impute" %in% rownames(installed.packages())) {
 ```
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):</p>
-
-
 </details>
 
 <details>
@@ -215,7 +213,8 @@ Advice for the thesis: get your references and stuff organised and maybe don’t
 </details>
 
 <details>
-  <summary>Timetable and planning the year</summary></b>
+  <b><summary>Timetable and planning the year</summary></b>
+	
   <p>The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
 
 Below are provisional Imperial College terms dates for 2024-25. Please note that some assessments submission and examination dates fall outside regular College term dates</p>
@@ -253,7 +252,7 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
   <tr><td>Spring Bank Holiday</td><td>25 May 2026</td></tr>
   <tr><td>Summer Bank Holiday</td><td>31 August 2026</td></tr>
 </table>
-
+</details>
 
 
 <details>
