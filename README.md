@@ -212,10 +212,10 @@ Summer quarter advice - make sure they have data you want to work with.
 Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.</p>
 </details>
 
-
 <details>
-  <b><summary>Timetable and planning the year</summary></b>
-	
+ <summary>Timetable and planning the year</summary>
+
+ 
   <p>The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
 
 Below are provisional Imperial College terms dates for 2024-25. Please note that some assessments submission and examination dates fall outside regular College term dates</p>
