@@ -100,8 +100,6 @@ Download RStudio
 Install required packages in R
 There are two main repositories of R packages (sets of built-in R functions): the CRAN (Comprehensive R Archive Network) and Bioconductor. Once both R and R Studio are installed, you can open RStudio and install the required packages by running the following code:
 
-Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):</p>
-
 ```r
 ### First we create a function that checks if you have the package installed 
 ### and, if you don't have it, installs the package
@@ -138,6 +136,10 @@ if (!"impute" %in% rownames(installed.packages())) {
   BiocManager::install("impute")
 }
 ```
+
+Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):</p>
+
+
 </details>
 
 <details>
